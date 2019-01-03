@@ -1,1 +1,1 @@
-This is Tophu's first git project!
+This is Tophu's second git project!
